@@ -1,0 +1,11 @@
+[Lens]
+DBusName=unity.singlet.lens.wikipedia
+DBusPath=/unity/singlet/lens/wikipedia
+Name=Wikipedia
+Icon=/usr/share/unity/lenses/wikipedia/unity-lens-wikipedia.svg
+Description=Wikipedia Lens
+SearchHint=Search Wikipedia
+#Shortcut=c
+
+[Desktop Entry]
+X-Ubuntu-Gettext-Domain=wikipedia
