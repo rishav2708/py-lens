@@ -12,6 +12,9 @@ after that write
 
 then change to google directory
 >cd google
+
+
+
 and replace the files with this file.
 You are all done
 Now type
